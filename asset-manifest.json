@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aadi0104/The-Dictionary-Project/static/css/main.5675d0b9.css",
+    "main.js": "/aadi0104/The-Dictionary-Project/static/js/main.6a91fd62.js",
+    "static/js/592.b65cbf0d.chunk.js": "/aadi0104/The-Dictionary-Project/static/js/592.b65cbf0d.chunk.js",
+    "static/media/logo.svg": "/aadi0104/The-Dictionary-Project/static/media/logo.520a47db5e93e877df410c744afec736.svg",
+    "index.html": "/aadi0104/The-Dictionary-Project/index.html",
+    "main.5675d0b9.css.map": "/aadi0104/The-Dictionary-Project/static/css/main.5675d0b9.css.map",
+    "main.6a91fd62.js.map": "/aadi0104/The-Dictionary-Project/static/js/main.6a91fd62.js.map",
+    "592.b65cbf0d.chunk.js.map": "/aadi0104/The-Dictionary-Project/static/js/592.b65cbf0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5675d0b9.css",
+    "static/js/main.6a91fd62.js"
+  ]
+}
